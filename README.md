@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi everyone 👋,
+
+I'm a Master's graduate in Digital Engineering and am passionate about Computer Vision and Deep Learning.
+
+<details>
+<summary>
+  More about me...
+</summary>
+
+
 
 <!--
 **morrisfl/morrisfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
