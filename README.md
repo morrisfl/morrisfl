@@ -1,6 +1,6 @@
 ### Hi everyone 👋,
 
-I'm a Master's graduate in Digital Engineering and am passionate about Computer Vision and Deep Learning.
+I'm a Master's student in Digital Engineering and I'm passionate about Computer Vision and Deep Learning.
 
 <details>
 <summary>
