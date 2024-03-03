@@ -7,9 +7,10 @@ I'm a Master's student in Digital Engineering and passionate about Computer Visi
   More about me...
 </summary>
 
+### ✨ About me
 - 🎓 I'm studying Digital Engineering at the Bauhaus-University Weimar, Germany.
 - ⚙️ I’m currently working on my Master's thesis in the field of multi-domain feature extraction for image retrieval (see my repositories [mdfe](https://github.com/morrisfl/mdfe))
-- 🔭 I'm looking for a job in the field of Computer Vision and Deep Learning. (starting from April 2024). See my [CV](cv.pdf) for more information.
+- 🔭 I'm looking for a job in the field of Computer Vision and Deep Learning (starting from April 2024). See my [CV](cv.pdf) for more information.
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
