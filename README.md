@@ -1,21 +1,26 @@
 ### Hi everyone 👋,
 
-I'm a Master's student in Digital Engineering and passionate about Computer Vision and Deep Learning.
+I'm a Master's graduate in Digital Engineering and passionate about Computer Vision and Deep Learning.
 
 <details>
 <summary>
   More about me...
 </summary>
 
-### ✨ About me
-- 🎓 I'm studying Digital Engineering at the Bauhaus-University Weimar, Germany.
-- ⚙️ I’m currently working on my Master's thesis in the field of multi-domain feature extraction for image retrieval (see my repositories [mdfe](https://github.com/morrisfl/mdfe))
-- 🔭 I'm looking for a job in the field of Computer Vision and Deep Learning (starting from April 2024). See my [CV](cv.pdf) for more information.
+## ✨ About me
+- 🎓 I graduated with a Master's degree in Digital Engineering from the Bauhaus-University Weimar, Germany.
+- 🌱 I'm currently learning ``C++``.
+- 🔭 I'm looking for a job in the field of Computer Vision and Deep Learning. See my [CV](resume.pdf) for more information.
 
-### 🛠️ Tech Stack
+## 📊 Stats
+![Morris's GitHub stats](https://github-readme-stats.vercel.app/api?username=morrisfl&show_icons=true&theme=dark&hide_rank=True)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morrisfl&&theme=dark&)
+
+## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Matlab](https://img.shields.io/badge/-Matlab-000?&logo=Mathworks)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV)
@@ -38,7 +43,7 @@ I'm a Master's student in Digital Engineering and passionate about Computer Visi
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)
 
-### ☎️ Contact me
+## ☎️ Contact me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/morris-florek-883b2710a/)
 [![Mail](https://img.shields.io/badge/-Mail-000?&logo=Gmail)](mailto:morris.floreklgmx.de)
 
