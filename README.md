@@ -1,16 +1,13 @@
 ### Hi everyone 👋,
 
-I'm a Master's graduate in Digital Engineering and passionate about Computer Vision and Deep Learning.
+I'm a researcher at TU Dresden, specializing in image-based 3D scene reconstruction of bridges and the extraction of
+design-relevant bridge information from images.
 
 <details>
 <summary>
   More about me...
 </summary>
 
-## ✨ About me
-- 🎓 I graduated with a Master's degree in Digital Engineering from the Bauhaus-University Weimar, Germany.
-- 🌱 I'm currently learning ``C++``.
-- 🔭 I'm looking for a job in the field of Computer Vision and Deep Learning. See my [CV](resume.pdf) for more information.
 
 ## 📊 Stats
 ![Morris's GitHub stats](https://github-readme-stats.vercel.app/api?username=morrisfl&show_icons=true&theme=dark&hide_rank=True)
@@ -45,5 +42,4 @@ I'm a Master's graduate in Digital Engineering and passionate about Computer Vis
 
 ## ☎️ Contact me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/morris-florek-883b2710a/)
-[![Mail](https://img.shields.io/badge/-Mail-000?&logo=Gmail)](mailto:morris.floreklgmx.de)
 
